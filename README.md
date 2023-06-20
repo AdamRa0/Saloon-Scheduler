@@ -15,7 +15,7 @@ cd path_to_cloned_project
 
 psql -U postgres < saloon.sql
 
-chmod +x saloon.sql
+chmod +x saloon.sh
 
 ./saloon.sql
 ```
